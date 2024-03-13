@@ -1,2 +1,2 @@
 # java-oop-course
-Course PenzGTU
+Course PenzGTU - `21IS`
